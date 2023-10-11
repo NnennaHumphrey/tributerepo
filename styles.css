@@ -3,6 +3,7 @@
     justify-content: center;
     align-items: center;
 }
+/* css style for the body */
 
 h1, h2{
     text-align: center;
@@ -14,6 +15,7 @@ h2{
     height: 50px;
     padding-top: 15px;
 }
+/* css style for heading one and 2 */
 
 p{
     padding-top: 15px;
@@ -24,6 +26,7 @@ p{
     width: 500px;
     height: 600px;
     padding-left: 480px;
+    /* style for the first image */
 
 
 }
@@ -41,3 +44,4 @@ p{
     padding-left: 480px;
 
 }
+/* style for the second image */
